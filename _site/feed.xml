@@ -4,10 +4,10 @@
     <title>iphy.info</title>
     <description>Science, Physics and Computer
 </description>
-    <link>http://iphy.info/blog//</link>
-    <atom:link href="http://iphy.info/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Jan 2016 22:13:18 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 22:13:18 +0800</lastBuildDate>
+    <link>http://iphy.info/blog/</link>
+    <atom:link href="http://iphy.info/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Jan 2016 23:52:31 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 23:52:31 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 14 Jan 2016 05:26:28 +0800</pubDate>
-        <link>http://iphy.info/blog//jekyll/update/2016/01/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://iphy.info/blog//jekyll/update/2016/01/14/welcome-to-jekyll.html</guid>
+        <link>http://iphy.info/blog/jekyll/update/2016/01/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://iphy.info/blog/jekyll/update/2016/01/14/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -58,8 +58,8 @@ You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ah
 
 </description>
         <pubDate>Thu, 14 Jan 2016 05:26:28 +0800</pubDate>
-        <link>http://iphy.info/blog//jekyll/update/2016/01/14/second-article.html</link>
-        <guid isPermaLink="true">http://iphy.info/blog//jekyll/update/2016/01/14/second-article.html</guid>
+        <link>http://iphy.info/blog/jekyll/update/2016/01/14/second-article.html</link>
+        <guid isPermaLink="true">http://iphy.info/blog/jekyll/update/2016/01/14/second-article.html</guid>
         
         
         <category>jekyll</category>
