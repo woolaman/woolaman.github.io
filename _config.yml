@@ -1,10 +1,10 @@
 # Site settings
-title: iphy.info
+title: www.iphy.info
 email: hxwang@iphy.me
 description: > # this means to ignore newlines until "baseurl:"
-    Science, Physics and Computer
+Science, Physics and Computer
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://iphy.info" # the base hostname & protocol for your site
+url: "http://www.iphy.info" # the base hostname & protocol for your site
 twitter_username: iphy
 github_username:  iphys
 
