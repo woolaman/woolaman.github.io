@@ -1,12 +1,15 @@
 # Site settings
 title: www.iphy.info
 email: hxwang@iphy.me
+
 description: > # this means to ignore newlines until "baseurl:"
 Science, Physics and Computer
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.iphy.info" # the base hostname & protocol for your site
-twitter_username: iphy
-github_username:  iphys
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://www.iphy.info" # the base hostname & protocol for your site
+#twitter_username: ryanhxwang
+#github_username:  iphys
+
 
 # Build settings
 markdown: kramdown
@@ -14,7 +17,6 @@ markdown: kramdown
 
 #site source, DIR is the directory 
 #source: DIR
-
 
 defaults:
   -
