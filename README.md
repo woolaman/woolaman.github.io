@@ -1,8 +1,3 @@
-www.iphy.info
-
-爱物理, 爱科学
-
-
-乌拉男的个人博客!
-
+button属性修改在bootstrap.css里面
+button显示修改在-include/footer.html和base.js里面
 
