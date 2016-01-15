@@ -19,8 +19,8 @@ url: http://iphy.info
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /images/deer3.png
-favicon: /images/deer3.png
+gavatar: /public/img/deer3.png
+favicon: /public/img/deer3.png
 
 # google analytics 设置
 #ga:
@@ -31,23 +31,19 @@ favicon: /images/deer3.png
 disqus:
   shortname: iphy 
 
-# 主题设置，自动激活某个标签
+# 主题设置，自动激活某个 标签 or 目录?
 active: Research
 
 # 首页除了最新文章外显示分类
 cates:
-  - Research
   - Physics
-  - C++
-  - Bash
-  - Python
-  - LaTeX
+  - Computer
 
 # 中文本地化
 locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 归档
+  tags: Tags
+  about: About
+  newest: News
+  archive: Archive
 
 

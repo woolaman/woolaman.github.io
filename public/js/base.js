@@ -95,3 +95,5 @@ function contentEffects(){
     $('#content_btn').hide();
   }
 }
+
+
