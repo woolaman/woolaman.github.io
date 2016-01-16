@@ -7,10 +7,10 @@ author:
   name: Hongxin Wang
   email: hxwang@iphy.me
   link: http://iphy.info
-#weibo: http://weibo.com/orangeissweet
-#github: http://github.com/lay1010
-#music: http://site.douban.com/linanya
-#linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  github: http://github.com/iphys
+  #weibo: http://weibo.com/orangeissweet
+  #music: http://site.douban.com/linanya
+  #linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
 title: 乌拉的博客
@@ -32,18 +32,18 @@ disqus:
   shortname: iphy 
 
 # 主题设置，自动激活某个 标签 or 目录?
-active: Research
+active: 新闻
 
-# 首页除了最新文章外显示分类
+# 首页除了最新文章外显示标签
 cates:
-  - Physics
-  - Computer
+  - 科研
+  - 技术
 
 # 中文本地化
 locals:
-  tags: Tags
-  about: About
-  newest: News
-  archive: Archive
+  tags: 标签
+  about: 关于
+  newest: 最新
+  archive: 归档
 
 
