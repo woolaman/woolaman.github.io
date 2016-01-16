@@ -242,3 +242,5 @@ Don't forget to check Preferences, lots of useful options are there.
 Follow [@Mou](https://twitter.com/mou) on Twitter for the latest news.
 
 For feedback, use the menu `Help` - `Send Feedback`
+
+
