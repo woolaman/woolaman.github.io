@@ -234,7 +234,6 @@ Left         | Center        | Right
 * Export HTML: Option + Cmd + E
 * Export PDF:  Option + Cmd + P
 
-
 ### And more?
 
 Don't forget to check Preferences, lots of useful options are there.
