@@ -46,4 +46,8 @@ locals:
   newest: 最新
   archive: 归档
 
+github:
+  repo: iphys.github.io
+  branch: master
+
 

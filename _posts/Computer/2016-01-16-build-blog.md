@@ -1,9 +1,8 @@
 ---
 layout: post
-title: title 
+title: 利用github pages 建立个人博客
 category: 技术 
-#category: 技术/书籍/生活/科研/新闻 
-tags: Python
+tags: github, blog, 域名, git 
 keywords: 
 description: 
 ---
