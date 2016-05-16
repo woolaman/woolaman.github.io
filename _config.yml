@@ -15,8 +15,8 @@ description: My personal blog
 url: http://www.iphy.info
 
 # gavatar头像及Favicon
-gavatar: /public/img/mao.png
-favicon: /public/img/mao.png
+gavatar: /public/img/cat2.png
+favicon: /public/img/cat2.png
 
 # google analytics 设置
 #ga:
