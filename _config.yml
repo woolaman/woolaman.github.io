@@ -4,19 +4,15 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Hongxin Wang
+  name: Woolaman 
   email: hxwang@iphy.me
-  link: http://iphy.info
-  github: http://github.com/iphys
-  #weibo: http://weibo.com/orangeissweet
-  #music: http://site.douban.com/linanya
-  #linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  link: http://www.iphy.info
+  github: http://github.com/woolaman
 
 # 站点信息
 title: 乌拉的博客
 description: My personal blog
-url: http://iphy.info
-rss_url: /pages/atom.xml
+url: http://www.iphy.info
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
@@ -29,10 +25,10 @@ favicon: /public/img/deer3.png
 
 # disqus 设置
 disqus:
-  shortname: iphy 
+  shortname: woolaman 
 
 # 主题设置，自动激活某个 标签 or 目录?
-active: 新闻
+#active: 新闻
 
 # 首页除了最新文章外显示标签
 cates:
@@ -47,7 +43,7 @@ locals:
   archive: 归档
 
 github:
-  repo: iphys.github.io
+  repo: woolaman.github.io
   branch: master
 
 
