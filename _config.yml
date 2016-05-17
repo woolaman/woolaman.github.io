@@ -1,6 +1,6 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
-#markdown: redcarpet
+markdown: kramdown 
 
 # 作者信息
 author: 
@@ -31,9 +31,9 @@ disqus:
 #active: 新闻
 
 # 首页除了最新文章外显示标签
-cates:
-  - 科研
-  - 技术
+#cates:
+#  - 科研
+#  - 技术
 
 # 中文本地化
 locals:
