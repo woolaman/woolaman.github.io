@@ -2,8 +2,7 @@
 layout: post
 title: Bandwagon虚拟主机推荐 
 category: 技术 
-#category: 技术/书籍/生活/科研/新闻 
-tags: 科学上网 
+tags: Computer 
 keywords: Bandwagon, VPS, shadowsocks
 description: 
 ---
